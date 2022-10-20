@@ -7,9 +7,20 @@ This is a text base game with mouse click. It has multple choice answers and onl
 and gimp for simple graphics and transitions. This was my first coding project. I decided to go in and use what I learned
 to clean up alot of the code. This is still a work in prograss as I continue to clean up code and fixes. Thank you!
 
+$~~~$
+<h2>Added Graphics, sound, and characters using pygame</h2>
+
+![underPressuretitleShort](https://user-images.githubusercontent.com/84033650/197033374-55314810-3a8f-4f7a-8d4d-d1ec38a92d99.gif)
+
+$~~~$
+<h2>Interactive multiple choose questions</h2>
+
+![underPressuretitleShortquestionsshort](https://user-images.githubusercontent.com/84033650/197035961-ba037ff9-d5a7-40eb-acf4-ab205cdf1143.gif)
+
+
 # Things I learned
 
-* Adding Graphics, sound, and characters using pygame
+
 * Using loops and conditions to perform tasks
 * importing needed api libraries
 * Setting location and font for text/graphics 
